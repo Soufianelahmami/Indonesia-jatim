@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Online public service registration: Citizens can use the application to register for various public services, such as ID cards, driving licenses, and business permits.","photo":"https://iili.io/HkDpWB9.jpg"},
+  {"title":"tips mod 2","desc":"Information on public services: The application provides information on various public services, including the requirements for availing the services, the fees involved, and the processing time.","photo":"https://iili.io/HkDpwdb.jpg"},
+  {"title":"advance pack 3","desc":"Complaint registration: Citizens can use the application to register complaints about public services and track the status of their complaints.","photo":"https://iili.io/HkDpX1e.jpg"},
+  {"title":"helper mod 4","desc":"Public transport information: The application provides information on public transport routes, schedules, and fares.","photo":"https://iili.io/HkDphru.jpg"},
+  {"title":"advice pack 5","desc":"Disaster information: The application provides real-time information on disasters, such as floods and earthquakes, and provides guidance on how citizens can prepare for such events.","photo":"https://iili.io/HkDpN7j.jpg"},
+  {"title":"tips mod 6","desc":"Health services: The application provides information on health services, such as hospitals, clinics, and pharmacies, and allows citizens to book appointments with doctors.","photo":"https://iili.io/HkDpOkx.jpg"},
+  {"title":"how to use this app 7","desc":"Improved access to public services: The application makes it easier for citizens to access public services, particularly for those who live in remote areas or have limited mobility.","photo":"https://iili.io/HkDpvIV.png"},
+  {"title":"helper pack 8","desc":"Reduced corruption: By allowing citizens to register complaints and track the status of their complaints, the application can help to reduce corruption in public service delivery.","photo":"https://iili.io/HkDpemQ.jpg"}
 
    ]
  
